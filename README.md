@@ -1,5 +1,14 @@
-# ShushMe
+# GoogleLocationServices_Udacity
 Google Places API demo app
+
+## Link File APK : 
+https://drive.google.com/open?id=0B7e8aim1AeapcUxuSHlpbWsxTVk
+## Identitas Siswa :
+    Nama            : Ahmad Dimas Abid Muttaqi
+    Kelas / No urut : XII RPL 3 / 02
+    NIS             : 4652/1371.070
+    Angkatan        : 24
+    Nama Sekolah    : SMK Telkom Malang
 
 ## Screenshots
 

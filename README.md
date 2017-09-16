@@ -1,4 +1,4 @@
-# GoogleLocationServices_Udacity
+# Places_Udacity
 Google Places API demo app
 
 ## Link File APK : 
